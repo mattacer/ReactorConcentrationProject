@@ -1,4 +1,4 @@
-#Membrane Plug Flow Reactor Concentration Project
+# Membrane Plug Flow Reactor Concentration Project
 ## Brief Description
 This was a project and report completed as part of a Chemical Engineering 109 (Numerical and Mathematical Methods) course that modeled and analyzed the concentration profiles of chemical species within a membrane plug flow reactor(PFR) based on their accumulation, reaction kinetics, and mass diffusion. See the [report.pdf](./report.pdf) file for an overview of what the code in this repository does and how it was written.
 
@@ -6,7 +6,7 @@ This was a project and report completed as part of a Chemical Engineering 109 (N
 
 Concentration Profiles Over Time:
 
-https://github.com/mattacer/ReactorConcentrationProject/blob/master/ConcentrationsOverTime.mp4
+https://github.com/mattacer/ReactorConcentrationProject/blob/master/ConcentrationsOverTime.mp4?raw=true
 
 ## Related Mathematics Topics:
 * Parabolic Equations
